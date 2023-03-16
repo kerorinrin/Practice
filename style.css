@@ -1,0 +1,47 @@
+body{
+    font-family: Microsoft JhengHei ;Roboto;
+    font-size: 24px;
+    line-height: 36px;
+}
+.frame{
+    width: 1200px;
+    margin: 0 auto;
+}
+
+img{width: 324px;height: 324px; border-radius:200px}
+.logo1{width: 125px;height: 67px;}
+.logo2{width: 72px;height: 73px;}
+.icon{width: 48px;height: 48px;margin-top: 20px;margin-right: 24px;}
+
+h1{
+    font-family: roboto;line-height: 95px;
+    font-size: 80px;font-weight: black;
+    border-bottom:  2px solid #5B5B5B ;
+}
+h2{
+    line-height: 48px;
+    font-size: 32px;font-weight:bold;
+    border-bottom:  2px solid #5B5B5B ;
+    vertical-align: top;
+    padding-bottom: 8px;
+}
+
+.redTitle{
+    font-family: roboto;font-weight: bold;font-size: 24px;line-height: 32px; color:#A30101;
+    margin-left: 16px;
+}
+
+.grey{width: 1200px;height: 496px;padding-top: 32px;text-align:center;background-color: #415165;color: white;}
+
+.skill{width: 996px;border-bottom: 1px solid #D9D9D9;margin: 0 auto;padding-bottom: 8px;}
+.ch{font-size: 32px;margin-right: 16px}
+
+.na{border-left:1px solid #D9D9D9 ;width:484px;height: 363px;position: absolute;left: 45%;margin-top: 15px;}
+.item{height: 372px;text-align: left;position: absolute ;left: 45%;padding-left: 24px;line-height: 54px;}
+
+.work{width: 587px;height: 654px;padding-left: 24px;border-left: 1px solid #415165;font-size: 24px;font-weight: bold;}
+.small{font-size: 20px;font-weight: normal;margin-top: 0;}
+
+.footer{margin-top: 69px;height: 401px;background-color: #415165;color: white;padding-top: 24px;text-align: center;letter-spacing: 3px;line-height: 60px;}
+.contact{width: 1200px;border-bottom: 1px solid #D9D9D9;margin: 0 auto;padding-bottom: 8px;}
+
